@@ -17,7 +17,7 @@ proxy update command proxy-crawl
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating Brown
 
-# Stanley Info
+# BrownC2 Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
